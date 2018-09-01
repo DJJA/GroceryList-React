@@ -1,0 +1,26 @@
+.checked {
+    color: #95a5a6; /* gray */
+}
+
+.GroceryItem {
+    display: flex;
+    padding-left: 16px;
+    border-style: solid;
+    /* border-color: pink; */
+    border-radius: 16px;
+    padding: 2px 0;
+    margin: 4px 0;
+}
+
+.GroceryItem > button, .GroceryItem > div, .numberInput {
+    margin: 0 2px;
+}
+
+.GroceryItem > div{
+    width: 150px;
+    text-align: left;
+}
+
+.numberInput {
+    width: 32px;
+}

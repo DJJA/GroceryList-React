@@ -1,0 +1,18 @@
+.GroceryListItemsContainer {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    margin-bottom: 0;
+    vertical-align: middle;
+    padding: 8px;
+}
+
+.GroceryList {
+    padding: 8px;
+}
